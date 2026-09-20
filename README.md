@@ -16,3 +16,4 @@ allowed website origins and the UPLOAD_GATE Durable Object with its migration.
 No manual Durable Object binding is required when deploying with Wrangler.
 
 This repository package contains the upload service only, not the website or Android app.
+MineTock upload service.
