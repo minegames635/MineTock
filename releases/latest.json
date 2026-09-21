@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.4",
-  "notes": "Умная лента «Для вас/Подписки», рекомендации по просмотрам и свежести, deep-link на видео, управление своими публикациями и статистика, улучшенные комментарии и медиа-вложения, системные уведомления со звуком random.wav, резервный Cloudinary и полное удаление mute и автоматического отключения звука.",
-  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.4.apk",
-  "sha256": "45fb047ce2320b3a9fe823e164459ab32303e88219077f00fdbb2a808e40774f"
+  "versionCode": 6,
+  "versionName": "1.1.5",
+  "notes": "Исправлена Android-навигация: новый профиль, подписчики и подписки, настройки, редактирование и удаление своих видео. Сохранены умная лента, уведомления со звуком random.wav, резервный Cloudinary и воспроизведение со звуком без mute-настроек.",
+  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.5.apk",
+  "sha256": "80d4e6f71c5b7f2831d592637a7a77324b2f500626d1233607be3fb221a69e0c"
 }
