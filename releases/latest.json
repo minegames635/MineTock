@@ -1,7 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.5",
+  "versionCode": 7,
+  "versionName": "1.1.6",
   "notes": "Исправлена Android-навигация: новый профиль, подписчики и подписки, настройки, редактирование и удаление своих видео. Сохранены умная лента, уведомления со звуком random.wav, резервный Cloudinary и воспроизведение со звуком без mute-настроек.",
-  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.5.apk",
-  "sha256": "80d4e6f71c5b7f2831d592637a7a77324b2f500626d1233607be3fb221a69e0c"
+  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.6.apk",
+  "sha256": "b945ee7bbbdeb188444d2b70451046501bec270dd48d0a45844bd20b015a16db"
 }
+
