@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.2",
-  "notes": "Просмотры видео, полноэкранные комментарии, удержание правой стороны для 2×, перемотка с временем, новая иконка MineTock и улучшения визуала.",
-  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.2.apk",
-  "sha256": "8c0e1c86490c9d03a665c418ead71aec0898e471a11e7766bbb6da4f4f95baec"
+  "versionCode": 4,
+  "versionName": "1.1.3",
+  "notes": "Большое визуальное обновление: единый тёмный стиль, новая нижняя навигация, аккуратные действия поверх видео, улучшенные профиль, чаты, комментарии, загрузка и состояния приложения.",
+  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.3.apk",
+  "sha256": "a18984d3ce51b084928844d444b8e35ef3e9bb0d8be215618a5855f83fd85c83"
 }
