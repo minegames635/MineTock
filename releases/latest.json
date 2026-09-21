@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.3",
-  "notes": "Большое визуальное обновление: единый тёмный стиль, новая нижняя навигация, аккуратные действия поверх видео, улучшенные профиль, чаты, комментарии, загрузка и состояния приложения.",
-  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.3.apk",
-  "sha256": "a18984d3ce51b084928844d444b8e35ef3e9bb0d8be215618a5855f83fd85c83"
+  "versionCode": 5,
+  "versionName": "1.1.4",
+  "notes": "Умная лента «Для вас/Подписки», рекомендации по просмотрам и свежести, deep-link на видео, управление своими публикациями и статистика, улучшенные комментарии и медиа-вложения, системные уведомления со звуком random.wav, резервный Cloudinary и полное удаление mute и автоматического отключения звука.",
+  "apkUrl": "https://raw.githubusercontent.com/minegames635/MineTock/main/releases/MineTock-1.1.4.apk",
+  "sha256": "45fb047ce2320b3a9fe823e164459ab32303e88219077f00fdbb2a808e40774f"
 }

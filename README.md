@@ -17,3 +17,5 @@ No manual Durable Object binding is required when deploying with Wrangler.
 
 This repository package contains the upload service only, not the website or Android app.
 MineTock upload service.
+
+MineTock 1.1.4 uses the secondary Cloudinary cloud ceoaahow when the primary account reports a quota or limit error. Secrets remain in Cloudflare Secrets and are never committed to Git.

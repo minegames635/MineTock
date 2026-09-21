@@ -5,6 +5,7 @@ compatibility_date = "2025-09-01"
 [vars]
 FIREBASE_PROJECT_ID = "minetock-ba8dd"
 CLOUDINARY_CLOUD_NAME = "p68kg5lz"
+CLOUDINARY_SECONDARY_CLOUD_NAME = "ceoaahow"
 ALLOWED_ORIGINS = "https://minetock-ba8dd.web.app,http://localhost:5173,http://127.0.0.1:5173"
 [durable_objects]
 bindings = [{ name = "UPLOAD_GATE", class_name = "UploadGate" }]
@@ -12,3 +13,4 @@ bindings = [{ name = "UPLOAD_GATE", class_name = "UploadGate" }]
 tag = "v1"
 new_sqlite_classes = ["UploadGate"]
 # Secrets: wrangler secret put CLOUDINARY_API_KEY / CLOUDINARY_API_SECRET
+# Secrets: wrangler secret put CLOUDINARY_SECONDARY_API_KEY / CLOUDINARY_SECONDARY_API_SECRET
